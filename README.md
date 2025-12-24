@@ -1,4 +1,4 @@
-# 📊 Data Analyst Intern Project
+# 📊 Data Analyst Intern - Major Project
 
 ## 🏢 Internship Details
 - **Role:** Data Analyst Intern  
